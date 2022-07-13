@@ -163,6 +163,7 @@ h4 {
     height: 300px;
     grid-column: 3/10;
     grid-row-start: -8;
+    align-items: center;
 }
 
 #quote {
